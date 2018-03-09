@@ -1,0 +1,23 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cigolpl/testapi.git"
+  },
+  "author": "Mateusz Rzepa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cigolpl/testapi/issues"
+  },
+  "homepage": "https://github.com/cigolpl/testapi#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express": "^4.16.2"
+  }
+}
